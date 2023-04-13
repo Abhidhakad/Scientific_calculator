@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+.clac{
+    width: 400px;
+    margin: auto;
+    border: 2px solid green;
+    padding: 10px;
+    margin-top: 20px;
+}
+#mytext{
+  width: 350px;
+  height:40px;
+  margin-left: 20px;
+  border-radius: 8px;
+  
+}
+#mytext:hover{
+    background-color: antiquewhite;
+    transition: 0.5s;
+}
+.b{
+    margin: 10px;
+    background-color: rgb(79, 204, 228);
+    border-color: rgb(123, 212, 137);
+    border-radius: 5px;
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+}
